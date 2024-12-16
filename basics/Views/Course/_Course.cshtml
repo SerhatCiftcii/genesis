@@ -1,0 +1,17 @@
+@model Course
+<div class="card mb-3" id="kurs @Model.Id">
+    <div class="row">
+    <div class="col-md-3">
+        <img src="~/img/@Model.Image" class="img-fluid rounded-start" alt="">
+    </div>
+    <div class="col-md-8">
+        <div class="car-body">
+        <a asp-controller="Course" asp-action="Details" asp-route-id="@Model.Id">
+            <h5 class="card-title">@Model.Title</h5>
+        </a>
+    
+      <div class="card-text">@Model.Description</div>
+    </div>
+</div>
+</div>
+</div> 

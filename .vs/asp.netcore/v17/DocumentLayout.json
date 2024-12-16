@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Serhatt\\Desktop\\asp.netcore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFFAFAA-D7BE-4524-92C2-6495E90C852D}|basics\\basics.csproj|c:\\users\\serhatt\\desktop\\asp.netcore\\basics\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FFFAFAA-D7BE-4524-92C2-6495E90C852D}|basics\\basics.csproj|solutionrelative:basics\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFFAFAA-D7BE-4524-92C2-6495E90C852D}|basics\\basics.csproj|c:\\users\\serhatt\\desktop\\asp.netcore\\basics\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FFFAFAA-D7BE-4524-92C2-6495E90C852D}|basics\\basics.csproj|solutionrelative:basics\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFFAFAA-D7BE-4524-92C2-6495E90C852D}|basics\\basics.csproj|c:\\users\\serhatt\\desktop\\asp.netcore\\basics\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FFFAFAA-D7BE-4524-92C2-6495E90C852D}|basics\\basics.csproj|solutionrelative:basics\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFFAFAA-D7BE-4524-92C2-6495E90C852D}|basics\\basics.csproj|c:\\users\\serhatt\\desktop\\asp.netcore\\basics\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FFFAFAA-D7BE-4524-92C2-6495E90C852D}|basics\\basics.csproj|solutionrelative:basics\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFFAFAA-D7BE-4524-92C2-6495E90C852D}|basics\\basics.csproj|c:\\users\\serhatt\\desktop\\asp.netcore\\basics\\views\\course\\_course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FFFAFAA-D7BE-4524-92C2-6495E90C852D}|basics\\basics.csproj|solutionrelative:basics\\views\\course\\_course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFFAFAA-D7BE-4524-92C2-6495E90C852D}|basics\\basics.csproj|c:\\users\\serhatt\\desktop\\asp.netcore\\basics\\views\\course\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FFFAFAA-D7BE-4524-92C2-6495E90C852D}|basics\\basics.csproj|solutionrelative:basics\\views\\course\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFFAFAA-D7BE-4524-92C2-6495E90C852D}|basics\\basics.csproj|c:\\users\\serhatt\\desktop\\asp.netcore\\basics\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FFFAFAA-D7BE-4524-92C2-6495E90C852D}|basics\\basics.csproj|solutionrelative:basics\\views\\course\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFFAFAA-D7BE-4524-92C2-6495E90C852D}|basics\\basics.csproj|c:\\users\\serhatt\\desktop\\asp.netcore\\basics\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FFFAFAA-D7BE-4524-92C2-6495E90C852D}|basics\\basics.csproj|solutionrelative:basics\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFFAFAA-D7BE-4524-92C2-6495E90C852D}|basics\\basics.csproj|c:\\users\\serhatt\\desktop\\asp.netcore\\basics\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FFFAFAA-D7BE-4524-92C2-6495E90C852D}|basics\\basics.csproj|solutionrelative:basics\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFFAFAA-D7BE-4524-92C2-6495E90C852D}|basics\\basics.csproj|c:\\users\\serhatt\\desktop\\asp.netcore\\basics\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FFFAFAA-D7BE-4524-92C2-6495E90C852D}|basics\\basics.csproj|solutionrelative:basics\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFFAFAA-D7BE-4524-92C2-6495E90C852D}|basics\\basics.csproj|c:\\users\\serhatt\\desktop\\asp.netcore\\basics\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFFAFAA-D7BE-4524-92C2-6495E90C852D}|basics\\basics.csproj|solutionrelative:basics\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFFAFAA-D7BE-4524-92C2-6495E90C852D}|basics\\basics.csproj|c:\\users\\serhatt\\desktop\\asp.netcore\\basics\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFFAFAA-D7BE-4524-92C2-6495E90C852D}|basics\\basics.csproj|solutionrelative:basics\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFFAFAA-D7BE-4524-92C2-6495E90C852D}|basics\\basics.csproj|c:\\users\\serhatt\\desktop\\asp.netcore\\basics\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFFAFAA-D7BE-4524-92C2-6495E90C852D}|basics\\basics.csproj|solutionrelative:basics\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFFAFAA-D7BE-4524-92C2-6495E90C852D}|basics\\basics.csproj|c:\\users\\serhatt\\desktop\\asp.netcore\\basics\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFFAFAA-D7BE-4524-92C2-6495E90C852D}|basics\\basics.csproj|solutionrelative:basics\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFFAFAA-D7BE-4524-92C2-6495E90C852D}|basics\\basics.csproj|c:\\users\\serhatt\\desktop\\asp.netcore\\basics\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFFAFAA-D7BE-4524-92C2-6495E90C852D}|basics\\basics.csproj|solutionrelative:basics\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Serhatt\\Desktop\\asp.netcore\\basics\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "basics\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Serhatt\\Desktop\\asp.netcore\\basics\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "basics\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:06:05.337Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Serhatt\\Desktop\\asp.netcore\\basics\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "basics\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Serhatt\\Desktop\\asp.netcore\\basics\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "basics\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T15:15:03.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Navbar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Serhatt\\Desktop\\asp.netcore\\basics\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeDocumentMoniker": "basics\\Views\\Shared\\_Navbar.cshtml",
+              "ToolTip": "C:\\Users\\Serhatt\\Desktop\\asp.netcore\\basics\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeToolTip": "basics\\Views\\Shared\\_Navbar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T15:15:00.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Serhatt\\Desktop\\asp.netcore\\basics\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "basics\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Serhatt\\Desktop\\asp.netcore\\basics\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "basics\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T15:15:00.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\Serhatt\\Desktop\\asp.netcore\\basics\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "basics\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "C:\\Users\\Serhatt\\Desktop\\asp.netcore\\basics\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "basics\\Views\\Shared\\_Header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T15:14:54.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Serhatt\\Desktop\\asp.netcore\\basics\\Views\\Course\\Details.cshtml",
+              "RelativeDocumentMoniker": "basics\\Views\\Course\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Serhatt\\Desktop\\asp.netcore\\basics\\Views\\Course\\Details.cshtml",
+              "RelativeToolTip": "basics\\Views\\Course\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T15:09:46.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Serhatt\\Desktop\\asp.netcore\\basics\\Views\\Course\\index.cshtml",
+              "RelativeDocumentMoniker": "basics\\Views\\Course\\index.cshtml",
+              "ToolTip": "C:\\Users\\Serhatt\\Desktop\\asp.netcore\\basics\\Views\\Course\\index.cshtml",
+              "RelativeToolTip": "basics\\Views\\Course\\index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T15:09:46.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Serhatt\\Desktop\\asp.netcore\\basics\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "basics\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Serhatt\\Desktop\\asp.netcore\\basics\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "basics\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T15:08:34.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Serhatt\\Desktop\\asp.netcore\\basics\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "basics\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Serhatt\\Desktop\\asp.netcore\\basics\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "basics\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T15:08:13.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Serhatt\\Desktop\\asp.netcore\\basics\\Views\\Home\\index.cshtml",
+              "RelativeDocumentMoniker": "basics\\Views\\Home\\index.cshtml",
+              "ToolTip": "C:\\Users\\Serhatt\\Desktop\\asp.netcore\\basics\\Views\\Home\\index.cshtml",
+              "RelativeToolTip": "basics\\Views\\Home\\index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T15:08:01.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Course.cshtml",
+              "DocumentMoniker": "C:\\Users\\Serhatt\\Desktop\\asp.netcore\\basics\\Views\\Course\\_Course.cshtml",
+              "RelativeDocumentMoniker": "basics\\Views\\Course\\_Course.cshtml",
+              "ToolTip": "C:\\Users\\Serhatt\\Desktop\\asp.netcore\\basics\\Views\\Course\\_Course.cshtml",
+              "RelativeToolTip": "basics\\Views\\Course\\_Course.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T15:06:45.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Serhatt\\Desktop\\asp.netcore\\basics\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "basics\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Serhatt\\Desktop\\asp.netcore\\basics\\Models\\Course.cs",
+              "RelativeToolTip": "basics\\Models\\Course.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:06:44.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Serhatt\\Desktop\\asp.netcore\\basics\\Models\\Repository.cs",
+              "RelativeDocumentMoniker": "basics\\Models\\Repository.cs",
+              "ToolTip": "C:\\Users\\Serhatt\\Desktop\\asp.netcore\\basics\\Models\\Repository.cs",
+              "RelativeToolTip": "basics\\Models\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:06:41.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\Serhatt\\Desktop\\asp.netcore\\basics\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "basics\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\Serhatt\\Desktop\\asp.netcore\\basics\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "basics\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:46:03.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Serhatt\\Desktop\\asp.netcore\\basics\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "basics\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Serhatt\\Desktop\\asp.netcore\\basics\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "basics\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T23:08:46.973Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
